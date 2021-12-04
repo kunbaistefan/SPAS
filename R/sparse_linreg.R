@@ -5,7 +5,6 @@
 #'sparse_linreg
 #'
 #'Conduct linear regression on sparse matrix
-#'@import stats
 #'@import tidyverse
 #'@param X covariate matrix X
 #'@param y outcome vector y
