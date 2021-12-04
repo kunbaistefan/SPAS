@@ -2,6 +2,5 @@
 
 export(sparse_linreg)
 export(sparse_logreg)
-import(Matrix)
 import(stats)
 import(tidyverse)
