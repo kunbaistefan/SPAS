@@ -22,4 +22,5 @@ Suggests:
 VignetteBuilder: knitr
 Depends: 
     tidyverse,
-    Matrix
+    Matrix,
+    stats
