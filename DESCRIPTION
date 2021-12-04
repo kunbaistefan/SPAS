@@ -21,4 +21,5 @@ Suggests:
     knitr
 VignetteBuilder: knitr
 Depends: 
-    tidyverse
+    tidyverse,
+    Matrix
