@@ -10,7 +10,6 @@
 #'sparse_logreg
 #'
 #'Conduct logistic regression on sparse matrix
-#'@import stats
 #'@import tidyverse
 #'@param outcome_column the column name of the binary outcome
 #'@param design_columns the column names corresponding to the covariates
